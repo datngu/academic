@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Dat
-middle_name: Thanh
+middle_name: T
 last_name: Nguyen
 email: ndat@utexas.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -66,11 +66,11 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: datngu
 gitlab_username: # your GitLab user name
-twitter_username: # your Twitter handle
-linkedin_username: # your LinkedIn user name
+twitter_username: ndatth_
+linkedin_username: ndat
 scholar_userid: I594RbMAAAAJ
 semanticscholar_id: # your Semantic Scholar ID
-orcid_id: # your ORCID ID
+orcid_id: 0000-0003-3852-9578
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
