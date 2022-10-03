@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - datngu
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - datngu/lmtag
+  - datngu/circall
+  - datngu/TagSNP_evaluation
+  - datngu/SNP_array_comparison
+

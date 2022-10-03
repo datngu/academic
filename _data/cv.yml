@@ -2,31 +2,27 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Dat Thanh Nguyen
     - name: Date of Birth
-      value: 14th March 1879
+      value: September 1994
     - name: Languages
-      value: English, German
+      value: English, Vietnamese
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Statistics and Data Science
+      institution: The University of Texas at Austin, Texas, USA
+      year: 2022-
+
+    - title: Bioinformatics
+      institution: Norwegian University of Life Sciences, Ås, Norway
+      year: 2022-
+            
+    - title: Plant Sciences
+      institution: Tel Aviv University, Tel Aviv, Israel
+      year: 2017-2020
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
 
 - title: Experience
   type: time_table
