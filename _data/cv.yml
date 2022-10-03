@@ -3,8 +3,10 @@
   contents:
     - name: Full Name
       value: Dat Thanh Nguyen
-    - name: Year of Birth
-      value: 1994
+    - name: Gender
+      value: Male
+    - name: Origin
+      value: Tay Ninh province, (southern) Vietnam
     - name: Languages
       value: English, Vietnamese
 
