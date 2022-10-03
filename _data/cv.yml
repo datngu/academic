@@ -38,6 +38,9 @@
       institution: Faculty of Biosciences, Norwegian University of Life Sciences, Ås, Norway
       year: 2/2022-.
       description:
+        - Gene regulation with molecular QTL [circQTL, atacQTL, eQTL].
+        - Variant impact prediction and prioritization.
+        - Chromatin state modeling.
 
     - title: Bioinformatics Scientist
       institution: Center for Biomedical Informatics, Vingroup Big Data Insititute, Hanoi, Vietnam
