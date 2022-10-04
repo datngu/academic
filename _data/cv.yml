@@ -85,7 +85,7 @@
     - title: Gene regulation/ multi-omic data analytics
       items:
         - How genetic variants impact phenotype via chromatine accessibility, mRNA, and circular RNA expressions?
-    - title: applied machine learning
+    - title: Applied machine learning
       items:
         - Modeling chromatine accessibility
         - Variant impact/ causal variant prediction
