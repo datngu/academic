@@ -5,10 +5,10 @@
       value: Dat Thanh Nguyen
     - name: Gender
       value: Male
-    - name: Origin
+    - name: Hometown
       value: Tay Ninh province, (southern) Vietnam
     - name: Languages
-      value: English, Vietnamese
+      value: Vietnamese, English
 
 - title: Education
   type: time_table
@@ -49,46 +49,52 @@
       year: 6/2020 - 1/2022
       description:
         - Developing method for SNP array desgins and apply for the Vietnamese population
-        - Benchmarking human SNP array for polygenic risk scores analyses.
-        - The 1000 Vietnamese genome project working group.
+        - Benchmarking human SNP array for polygenic risk scores analyses
+        - The 1000 Vietnamese genome project working group
 
     - title: Visiting Student
       institution: Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden
       year: 5/2019 - 5/2020
       description:
-        - Developing a novel computational and statistical method for indentifying circular RNA.
+        - <a href="https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04418-8">Developing a novel computational and statistical method for indentifying circular RNA.</a>
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://github.com/datngu/Circall">Circall</a>
+      year: 2019-2020
+      description: A fast and accurate methodology for discovery of circular RNAs from paired-end RNA-sequencing data.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2017
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - International MSc program in Plant Sciences and Food Security scholarship - Tel Aviv Univeristy
+    - year: 2019
       items: 
-        - Max Planck Medal
+        - Scholarship for research associated master student - Karolinska Institutet
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Bioinformatic algorithm development
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Method for identifying circular RNAs
+        - Method for desgining genotyping SNP array
+    - title: Gene regulation/ multi-omic data analytics
       items:
-        - Description 1.
-        - Description 2.
+        - How genetic variants impact phenotype via chromatine accessibility, mRNA, and circular RNA expressions?
+    - title: applied machine learning
+      items:
+        - Modeling chromatine accessibility
+        - Variant impact/ causal variant prediction
+        
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Photography
+    - Blogging
+    - Travel
+    - Learning math and programming!
