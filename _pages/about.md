@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>A bioinformatic algorithm developer</a>
+subtitle: <a href='#'>A Biomedical Data Scientist</a>
 
 profile:
   align: right
