@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-05-25 07:59:00-0400
+date: 2022-02-14 07:59:00-0400
 inline: true
 ---
 
-<a href="https://www.utexas.edu/">Excited to be admited to the graduate program in Statistics and Data Science at The University of Texas at Austin :smile: :smile: :smile:</a>
+Accepted position as a PhD Fellow - The chaotic epoch of my life begins...@@ @@

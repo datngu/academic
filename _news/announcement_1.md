@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2020-06-27 15:59:00-0400
+date: 2019-05-08 15:59:00-0400
 inline: true
 ---
 
-Accepted position as a bioinformatics scientist at Vingroup Big Data Insititute :sparkles: :smile:
+My research career begins with an MSc thesis project in Bioinformatics at Karolinska Insititute, Sweden :sparkles: :sparkles: :smile: :smile:
