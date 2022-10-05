@@ -64,6 +64,9 @@
     - title: <a href="https://github.com/datngu/Circall">Circall</a>
       year: 2019-2020
       description: A fast and accurate methodology for discovery of circular RNAs from paired-end RNA-sequencing data.
+    - title: <a href="https://github.com/datngu/LmTag">LmTag</a>
+      year: 2019-2020
+      description: Functional-enrichment and imputation-aware tag SNP selection method for population-specific genotyping array desgin.
 
 - title: Honors and Awards
   type: time_table
