@@ -4,4 +4,4 @@ date: 2022-02-14 07:59:00-0400
 inline: true
 ---
 
-Accepted position as a PhD Fellow at Norwegian University of Life Sciences @@
+Accepted position as a PhD Fellow at Norwegian University of Life Sciences - The chaotic part of my life begins...@@ @@
