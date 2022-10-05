@@ -4,4 +4,4 @@ date: 2022-05-25 07:59:00-0400
 inline: true
 ---
 
-<a href="https://www.utexas.edu/">Excited to be admited to the graduate program in Statistics and Data Science at The University of Texas at Austin :smile: :smile: :smile:</a>
+Excited to be admited to the graduate program in Statistics and Data Science at The University of Texas at Austin :smile: :smile: :smile:
