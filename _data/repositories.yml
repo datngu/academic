@@ -3,6 +3,7 @@ github_users:
 
 github_repos:
   - datngu/lmtag
+  - datngu/cscQTL
   - datngu/circall
   - datngu/TagSNP_evaluation
   - datngu/SNP_array_comparison
