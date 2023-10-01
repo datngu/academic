@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2019-05-08 15:59:00-0400
+date: 2020-05-12 15:59:00-0400
 inline: true
 ---
 
-My research career begins with an MSc thesis project in Bioinformatics at Karolinska Insititute, Sweden :sparkles: :sparkles: :smile: :smile:
+MSc thesis defense :o: I am now gradudated from the Tel Aviv Univeristy, Israel! grateful to all of my friends, teachers! :sparkles: :sparkles: :sparkles: 

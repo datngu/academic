@@ -1,7 +1,6 @@
 ---
 layout: post
-date: 2022-02-14 07:59:00-0400
+date: 2021-12-28 16:11:00-0400
 inline: true
 ---
-
-Accepted position as a PhD Fellow at NMBU, Norway - @@ @@
+<a href="https://ieeexplore.ieee.org/document/9648614">My KSE conference paper is published :smile: :smile: :smile:</a>
