@@ -25,4 +25,4 @@ Currently, I am holding a research fellow position based in Norway where I activ
 Past projects involved circular RNA, population-specific SNP array designs, and Polygenic risk scores where I was the lead developer of several novel high-performance computational methods.
 
 
-Contact for collaboration: ndat<at>utexas.edu
+Contact for collaboration: ndat(at)utexas(dot)edu
