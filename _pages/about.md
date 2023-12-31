@@ -18,6 +18,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a biomedical data scientist who is intersted in doing research with [but not limited to] circular RNA, Polygenic risk cores, gene regulation, and SNP array design.
+An experienced bioinformatician/ biomedical data scientist with solid backgrounds in genetics, computer science, and statistics.
 
-I aslo do pipeline development with nextflow in the hope that my pipelines are useful to the research community!
+Currently, I am holding a research fellow position based in Norway where I actively do research in gene regulation inference and deep learning methods for genomics.
+
+Past projects involved circular RNA, population-specific SNP array designs, and Polygenic risk scores where I was the lead developer of several novel high-performance computational methods.
+
+
+Contact for collaboration: ndat<at>utexas.edu
